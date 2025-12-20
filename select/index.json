@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "春を待つ",
+  "base_artist": "Islet",
+  "createdAt": "2025-12-20T06:32:48.683954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春を待つ",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/01_春を待つ_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春を待つ",
+      "artist": "tayori",
+      "has_synced": true,
+      "path": "select/02_春を待つ_tayori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春を待つ",
+      "artist": "Islet, 倚水",
+      "has_synced": false,
+      "path": "select/pl_01_春を待つ_Islet,_倚水.txt"
+    }
+  ]
+}
